@@ -3,9 +3,8 @@ import Link from "next/link";
 export default function Page() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <h1>Hello, Dashboard Page!</h1>
-      <Link href="/">Back</Link>
-      <Link href="/dashboard/settings">Settings</Link>
+      <h1>Hello, Settings Page!</h1>
+      <Link href="/dashboard">Back to dashboard</Link>
     </main>
   );
 }
