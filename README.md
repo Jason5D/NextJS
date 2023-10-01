@@ -1,1 +1,1 @@
-# NextJS_Learning
+# NextJS
